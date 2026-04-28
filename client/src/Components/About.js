@@ -3,7 +3,7 @@ const About = () => {
     <div>
       Aaisha
       <br />
-      IT Student
+      IT Student utas-Shinas
     </div>
   );
 };
